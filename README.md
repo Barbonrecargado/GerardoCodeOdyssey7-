@@ -26,5 +26,9 @@ La programación, para mí, no es solo un reto técnico, sino también una maner
 ---
 
 ✨ *Este repositorio es más que un reto: es la prueba de que nunca es tarde para aprender, y que cada línea de código es un paso hacia un futuro lleno de posibilidades.*
+## 🌟 Principios de vida
+- La constancia abre caminos.
+- La edad nunca es un límite para aprender.
+- La gratitud es esencial: siempre agradecer, sin importar con quién o con qué.
 
 
