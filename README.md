@@ -33,10 +33,19 @@ La programación, para mí, no es solo un reto técnico, sino también una maner
 
 ## Día 3: Juego Secreto Mejorado.
 
-Como tengo un plan anual en Alura Latam, estoy recapitulando lo que aprendí como alumno de lageneración 4 de One Education. Para reforzar incié de cero, porque creo que igual a los músculos, la repetición es beneficiosa. Tengo esos archivos en repositorios privados y como parte de esta formación y el reto lo traje a este repositorio público de la formación.
+Como tengo un plan anual en Alura Latam, estoy recapitulando lo que aprendí como alumno de la generación 4 de One Education. Para reforzar incié de cero, porque creo que igual a los músculos, la repetición es beneficiosa. Tengo esos archivos en repositorios privados y como parte de esta formación y el reto lo traje a este repositorio público de la formación.
 ** Lo que aprendí hoy: **
 * Generación de números aleatorios con "Math.random() y Math.round para obtener números enteros.
 * Manipulación del DOM para limpiar la caja de texto (input.value = "") y devolver el foco automáticamente (input.focus())
+
+## 📎 Día 4: Reestructuración y limpieza de la Odisea
+Decidí dejar de pelear con carpetas profundas y moví mis archivos principales (index.html y el juego) directamente a la raíz del repositorio. Entendí que para que GitHub Pages funcione sin errores, el archivo de entrada debe estar al frente. Fue un proceso de poner orden manual en mi unidad G: para que la estructura local fuera un espejo de lo que quería mostrar en la web.
+
+## 📎Día 5: Identidad visual y manejo de rutas
+Me enfoqué en la personalización. Logré integrar mi imagen de marca (el Barbón) dentro del juego de adivinación. Aquí el reto fue técnico: entender que el código es caprichoso con las rutas. Aprendí a referenciar correctamente la carpeta de imágenes para que el navegador encontrara mi foto a la primera, reforzando el uso de etiquetas de imagen y rutas relativas.
+
+## 📎  Día 6: Dominio de Git y resolución de conflictos de estilo
+Tuve una batalla intensa con los archivos CSS. El diseño de "Aluraflix" no cargaba porque el nombre del archivo y el enlace en el HTML no coincidían tras los movimientos que hice. Apliqué "cirugía mayor" en la terminal: usé comandos de fuerza (--force) para limpiar el repositorio en la nube y corregí manualmente el enlace a style-peliculas.css. Logré que cada página tuviera su estilo propio sin que uno borrara al otro.
 
 
 ¡Bienvenido a mi odisea de código! Soy Gerardo, estudiante de la **Universidad Galileo** y apasionado por la tecnología. Este repositorio es el diario de mi aprendizaje.
@@ -44,3 +53,5 @@ Como tengo un plan anual en Alura Latam, estoy recapitulando lo que aprendí com
 ## 🏆 Desafíos Actuales
 ### 🚀 #7DaysOfCode (Alura LATAM)
 En este apartado guardo mis soluciones diarias para fortalecer mi lógica de programación:
+
+
