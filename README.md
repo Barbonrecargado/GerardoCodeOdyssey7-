@@ -45,7 +45,10 @@ Decidí dejar de pelear con carpetas profundas y moví mis archivos principales 
 Me enfoqué en la personalización. Logré integrar mi imagen de marca (el Barbón) dentro del juego de adivinación. Aquí el reto fue técnico: entender que el código es caprichoso con las rutas. Aprendí a referenciar correctamente la carpeta de imágenes para que el navegador encontrara mi foto a la primera, reforzando el uso de etiquetas de imagen y rutas relativas.
 
 ## 📎  Día 6: Dominio de Git y resolución de conflictos de estilo
-Tuve una batalla intensa con los archivos CSS. El diseño de "Aluraflix" no cargaba porque el nombre del archivo y el enlace en el HTML no coincidían tras los movimientos que hice. Apliqué "cirugía mayor" en la terminal: usé comandos de fuerza (--force) para limpiar el repositorio en la nube y corregí manualmente el enlace a style-peliculas.css. Logré que cada página tuviera su estilo propio sin que uno borrara al otro.
+Tuve una batalla intensa con los archivos CSS. El diseño de "Aluraflix" no cargaba porque el nombre del archivo y el enlace en el HTML no coincidían tras los movimientos que hice. Apliqué "cirugía mayor" en la terminal: usé el comando --force para limpiar el repositorio en la nube y corregí manualmente el enlace a style-peliculas.css. Logré que cada página tuviera su propio estilo sin que uno borrara al otro.
+
+## 📎Día 7 Despliegue final y consolidación de la Odisea
+Hoy cerré el ciclo asegurando que todo mi trabajo fuera público y funcional. No me conformé con que funcionara en mi computadora; me enfrenté a la configuración de GitHub Pages. Tuve que corregir de último minuto el direccionamiento de los archivos CSS, ya que al tener estilos diferentes para el juego y para el catálogo de películas, el orden en la raíz era vital. Verifiqué manualmente cada link, asegurándome de que la experiencia del usuario fuera fluida. Con este paso, no solo aprendí lógica, sino también el flujo real de trabajo de un desarrollador: desarrollar, probar, corregir y publicar.
 
 
 ¡Bienvenido a mi odisea de código! Soy Gerardo, estudiante de la **Universidad Galileo** y apasionado por la tecnología. Este repositorio es el diario de mi aprendizaje.
