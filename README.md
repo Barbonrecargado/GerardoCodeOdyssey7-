@@ -39,11 +39,9 @@ generacion 4 de One Education. Para reforzar incie de cero, porque creo que igua
 * Generación de numeros aleatorios con "Math.random() y Math.round para obtener números enteros.
 * Manipulaciòn del DOM para limpiar la caja de texto (input.value = "") y devolver el foco automáticamente (input.focus())
 
-# 🌌 GerardoCodeOdyssey7
 
 ¡Bienvenido a mi odisea de código! Soy Gerardo, estudiante de la **Universidad Galileo** y apasionado por la tecnología. Este repositorio es el diario de mi aprendizaje.
 
 ## 🏆 Desafíos Actuales
 ### 🚀 #7DaysOfCode (Alura LATAM)
 En este apartado guardo mis soluciones diarias para fortalecer mi lógica de programación:
-* **[Ver mis retos aquí](./Retos_7DaysOfCode/)** 👈
