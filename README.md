@@ -33,11 +33,10 @@ La programación, para mí, no es solo un reto técnico, sino también una maner
 
 ## Día 3: Juego Secreto Mejorado.
 
-Como tengo un plan anual en Alura Latam, estoy recapitulando lo que aprendí como alumno de la
-generacion 4 de One Education. Para reforzar incie de cero, porque creo que igual a los músculos, la repeticiòn es beneficiosa. Tengo esos archivos en repositorios privados y como parte de esta formación y el reto lo traje a este repositorio público de la formación.
+Como tengo un plan anual en Alura Latam, estoy recapitulando lo que aprendí como alumno de lageneración 4 de One Education. Para reforzar incié de cero, porque creo que igual a los músculos, la repetición es beneficiosa. Tengo esos archivos en repositorios privados y como parte de esta formación y el reto lo traje a este repositorio público de la formación.
 ** Lo que aprendí hoy: **
-* Generación de numeros aleatorios con "Math.random() y Math.round para obtener números enteros.
-* Manipulaciòn del DOM para limpiar la caja de texto (input.value = "") y devolver el foco automáticamente (input.focus())
+* Generación de números aleatorios con "Math.random() y Math.round para obtener números enteros.
+* Manipulación del DOM para limpiar la caja de texto (input.value = "") y devolver el foco automáticamente (input.focus())
 
 
 ¡Bienvenido a mi odisea de código! Soy Gerardo, estudiante de la **Universidad Galileo** y apasionado por la tecnología. Este repositorio es el diario de mi aprendizaje.
